@@ -1,3 +1,3 @@
 # PracticeRepoHTML
 HTML CSS PracticeCode
-Author - Shafique Rehman
+Author - (Shafique Rehman)
