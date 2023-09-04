@@ -1,5 +1,9 @@
 body{
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
     background-color: antiquewhite;
+    /* color: white; */
 }
 p{
     color: darkblue;
@@ -13,4 +17,28 @@ input[type=submit] {
   text-decoration: none;
   margin: 4px 2px;
   cursor: pointer;
+}
+#navbar{
+  background-color: black;
+  padding: 10px;
+}
+#searchbar{
+  display: inline;
+  float:right;
+}
+a{
+  margin-right: 100px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#logo{
+  color: orange;
+}
+button{
+  background-color: orange;
+  border-radius: 5px;
+}
+input{
+border-radius: 6px;
 }
