@@ -42,3 +42,35 @@ button{
 input{
 border-radius: 6px;
 }
+#box1{
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  border: 5px solid orange;
+  display: inline;
+  position: static;
+}
+#box2{
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  border: 5px solid orange;
+  display: inline;
+  position: static;
+}
+#box3{
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  border: 5px solid orange;
+  display: inline;
+  position: static;
+}
+#box4{
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  border: 5px solid orange;
+  display: inline;
+  position: static;
+}
